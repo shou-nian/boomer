@@ -2,11 +2,11 @@ package main
 
 import (
 	"context"
+	"go.etcd.io/etcd/client/v3"
 	"log"
 	"time"
 
-	"github.com/myzhan/boomer"
-	"go.etcd.io/etcd/clientv3"
+	"github.com/riny/boomer"
 )
 
 var globalClient *clientv3.Client

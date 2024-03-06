@@ -44,7 +44,7 @@ $ go get -u github.com/myzhan/gomq
 package main
 
 import "time"
-import "github.com/myzhan/boomer"
+import "github.com/riny/boomer"
 
 func foo(){
     start := time.Now()

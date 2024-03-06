@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/myzhan/boomer"
+	"github.com/riny/boomer"
 )
 
 var bindHost string

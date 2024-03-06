@@ -57,7 +57,7 @@ This is a example of boomer's API. You can find more in the "examples" directory
 package main
 
 import "time"
-import "github.com/myzhan/boomer"
+import "github.com/riny/boomer"
 
 func foo(){
     start := time.Now()

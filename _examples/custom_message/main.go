@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/myzhan/boomer"
+	"github.com/riny/boomer"
 )
 
 // This is an example about how to subscribe to locust's custom events.
